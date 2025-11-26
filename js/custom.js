@@ -49,7 +49,7 @@
 		/* ----------------------------------------------------------- */
 
 		$(document).ready(function () {
-
+				
 			// TOGGLE NAV MENU
 			if ($(".cd-stretchy-nav").length > 0) {
 				var nav = $(".cd-stretchy-nav");
